@@ -6,6 +6,7 @@
  * The script does NOT check if you need to relog. No guarantees for accuracy.
  * You want to send the attack via place, not in the map popup!
  * You need to be on the confirm screen (script will only click 'OK' to send the movement/command).
+ * Script in action: https://streamable.com/pkheg
  */
 
 var sendAt;
